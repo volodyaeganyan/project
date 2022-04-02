@@ -10,11 +10,11 @@ function App() {
     {id:3, name:'Ked', gin:'  22 000dr',image:'https://klike.net/uploads/posts/2020-03/1583139112_4.jpg'}
   ])
 
-
+let x =  'poxos'
 
   return (
     <div className="App">
-      
+
       <Homepage value = {value} setValue={setValue} />
     </div>
   );
